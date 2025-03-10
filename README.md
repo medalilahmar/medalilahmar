@@ -1,64 +1,46 @@
-# Hi there 👋
+# Hi there, I'm Mohamed 👋
 
-<!-- Banner -->
-<div align="center">
-  <img src="https://github.com/medalilahmar/medalilahmar/blob/main/banner.png?raw=true" alt="Banner" width="100%"/>
-</div>
+Welcome to my GitHub profile! I'm an aspiring **Cloud & Security Engineer** passionate about **IoT, DevOps, and Software Development**.
 
-<!-- About Me -->
 ## 🚀 About Me
+🎓 **Engineering Student** at ESPRIT, specializing in **IoT and Software Development**. I enjoy working on innovative projects that solve real-world problems.
 
-I'm **Med Ali Lahmar**, a passionate developer who loves to explore new technologies and build amazing projects. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+### 🛠️ Technologies & Tools
 
-<!-- Tech Stack -->
-## 🛠️ Tech Stack
+#### **💻 Programming Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-Here are some of the technologies and tools I work with:
+#### **☁️ Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
 
-- **Programming Languages**: 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-  
-- **Frontend Development**: 
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  
-- **Backend Development**: 
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-  
-- **Database**: 
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  
-- **Tools & Platforms**: 
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+#### **🖥️ Frameworks & Tools**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 
-<!-- GitHub Stats -->
 ## 📊 GitHub Stats
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=medalilahmar&show_icons=true&theme=radical)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=medalilahmar&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medalilahmar&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
-</div>
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=medalilahmar&theme=dark&row=1&column=5)
 
-<!-- Contact Me -->
-## 📫 How to Reach Me
+## 📫 Contact Me
+- **📧 Email**: mohamedali.lahmar@esprit.tn
+- **📞 Phone**: +216 92 532 202
+- **🔗 LinkedIn**: [Mohamed Ali Lahmar](https://www.linkedin.com/in/mohamed-ali-lahmar-5b0065225)
 
-- **Email**: [medalilahmar@example.com](mailto:medalilahmar@example.com)
-- **LinkedIn**: [Med Ali Lahmar](https://www.linkedin.com/in/medalilahmar)
-- **Twitter**: [@medalilahmar](https://twitter.com/medalilahmar)
-
-<!-- Fun Fact -->
-## ⚡ Fun Fact
-
-I once wrote a script that automated my morning coffee routine! ☕
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=medalilahmar&color=blue&style=flat-square" alt="Profile Views"/>
-</div>
+---
+✨ Passionate about Cloud, Security, and Innovation 🚀
