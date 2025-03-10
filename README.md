@@ -33,8 +33,7 @@ Welcome to my GitHub profile! I'm an aspiring **Cloud & Security Engineer** pass
 ![Trophies](https://github-profile-trophy.vercel.app/?username=medalilahmar&theme=dark&row=1&column=5)
 
 ## 📫 Contact Me
-- **📧 Email**: mohamedali.lahmar@esprit.tn
-- **📞 Phone**: +216 92 532 202
+- **📧 Email**: medalilahmar00@gmail.com
 - **🔗 LinkedIn**: [Mohamed Ali Lahmar](https://www.linkedin.com/in/mohamed-ali-lahmar-5b0065225)
 
 ---
