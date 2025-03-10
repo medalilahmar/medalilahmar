@@ -2,9 +2,6 @@
 
 Welcome to my GitHub profile! I'm an aspiring **Cloud & Security Engineer** passionate about **IoT, DevOps, and Software Development**.
 
-## 🚀 About Me
-🎓 **Engineering Student** at ESPRIT, specializing in **IoT and Software Development**. I enjoy working on innovative projects that solve real-world problems.
-
 ### 🛠️ Technologies & Tools
 
 #### **💻 Programming Languages**
@@ -32,9 +29,6 @@ Welcome to my GitHub profile! I'm an aspiring **Cloud & Security Engineer** pass
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 
-## 📊 GitHub Stats
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=medalilahmar&show_icons=true&theme=radical)
-
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=medalilahmar&theme=dark&row=1&column=5)
 
@@ -44,4 +38,4 @@ Welcome to my GitHub profile! I'm an aspiring **Cloud & Security Engineer** pass
 - **🔗 LinkedIn**: [Mohamed Ali Lahmar](https://www.linkedin.com/in/mohamed-ali-lahmar-5b0065225)
 
 ---
-✨ Passionate about Cloud, Security, and Innovation 🚀
+
